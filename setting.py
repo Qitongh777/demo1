@@ -1,7 +1,7 @@
 class Settings():
-	#±£´æÍâĞÇÈËgameËùÓĞÉèÖÃ
+	#gameæ‰€æœ‰è®¾ç½®ç±»
 	def __init__(self):
-		#³õÊ¼»¯ÆÁÄ»
+		#åˆå§‹åŒ–è®¾ç½®
 		self.screen_width = 1200
 		self.screen_height = 800
 		self.bg_color = (255,255,255)
