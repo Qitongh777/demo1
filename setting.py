@@ -3,5 +3,5 @@ class Settings():
 	def __init__(self):
 		#³õÊ¼»¯ÆÁÄ»
 		self.screen_width = 1200
-		self.screen_height = 800
+		self.screen_height = 8000000
 		self.bg_color = (255,255,255)
